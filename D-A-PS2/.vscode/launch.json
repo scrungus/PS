@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoublyLinkedListTestA<D-A-PS2_3d8aa6f4>",
+            "request": "launch",
+            "mainClass": "DoublyLinkedListTestA",
+            "projectName": "D-A-PS2_3d8aa6f4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoublyLinkedListTestB<D-A-PS2_3d8aa6f4>",
+            "request": "launch",
+            "mainClass": "DoublyLinkedListTestB",
+            "projectName": "D-A-PS2_3d8aa6f4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoublyLinkedListTestC<D-A-PS2_3d8aa6f4>",
+            "request": "launch",
+            "mainClass": "DoublyLinkedListTestC",
+            "projectName": "D-A-PS2_3d8aa6f4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedListTestA<D-A-PS2_3d8aa6f4>",
+            "request": "launch",
+            "mainClass": "LinkedListTestA",
+            "projectName": "D-A-PS2_3d8aa6f4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedListTestB<D-A-PS2_3d8aa6f4>",
+            "request": "launch",
+            "mainClass": "LinkedListTestB",
+            "projectName": "D-A-PS2_3d8aa6f4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedListTestC<D-A-PS2_3d8aa6f4>",
+            "request": "launch",
+            "mainClass": "LinkedListTestC",
+            "projectName": "D-A-PS2_3d8aa6f4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SkipList<D-A-PS2_3d8aa6f4>",
+            "request": "launch",
+            "mainClass": "SkipList",
+            "projectName": "D-A-PS2_3d8aa6f4"
+        }
+    ]
+}
